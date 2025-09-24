@@ -1,0 +1,1 @@
+Código en R para interpolar datos a través de la función approx() del paquete base stats y la función splinefun() de la librería splines. Adicionalmente, el código utiliza las librerías dplyr para la manipulación y ordenación de datos y ggplot2 para su visualización.
